@@ -8,7 +8,6 @@ I’m interested in **applying those skills in real projects**, learning new tec
 ---
 
 ## About me
-
 💼 I’m currently working in a bank in risk modelling, while developing projects to strengthen my skills in data.
 
 🎓 I have studied the Máster Big Data, Data Science & Inteligencia Artificial at the Universidad Complutense de Madrid (UCM).
@@ -19,7 +18,6 @@ I’m interested in **applying those skills in real projects**, learning new tec
 
 ---
 ## What you’ll find in my GitHub
-
 - Data analysis and machine learning projects  
 - Interactive dashboards (Dash & Plotly)  
 - NLP and time series mini-projects  
@@ -29,7 +27,6 @@ I’m interested in **applying those skills in real projects**, learning new tec
 ---
 
 ## 🛠️ Languages and Tools  
-
 ### 💻 Programming  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
